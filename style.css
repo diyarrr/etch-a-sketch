@@ -1,0 +1,40 @@
+
+h1 {
+    
+    font-size: 48px;
+}
+
+.box {
+    margin: 0;
+    padding: 0;
+    outline: 1px solid #000;
+}
+
+
+.container {
+  
+  border: 1px solid #000;
+  padding: 0;
+  height: 960px;
+  width: 960px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body {
+    text-align: center;
+}
+
+.outside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button {
+    margin-top: 32px;
+    padding: 8px;
+    background-color: #B1E1FF;
+    border-radius: 8px;
+}
